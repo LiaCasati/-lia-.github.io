@@ -7,6 +7,24 @@
 <p>
 <img src=https://scontent.fbsb9-1.fna.fbcdn.net/v/t1.0-1/p160x160/154437_1750424878553108_4048001277372875139_n.jpg?oh=d40cd6046c849fbfe5ab959f01181818&oe=59492032> </img>
 </p>
+<p>
+<b>Idade:</b>15
+</p>
+<p>
+<b>Nascido em:</b> Vitória-ES
+</p>
+<p>
+<b>Redes sociais:</b>
+</p>
+<li><a href="htt<html>
+<head>
+<title>Lia Casati</title>
+</head>
+<body>
+<h1>Dados gerais</h1>
+<p>
+<img src=https://scontent.fbsb9-1.fna.fbcdn.net/v/t1.0-1/p160x160/154437_1750424878553108_4048001277372875139_n.jpg?oh=d40cd6046c849fbfe5ab959f01181818&oe=59492032> </img>
+</p>
 <b>Nome:</b>Lia Casati Ramaldes
 </p>
 <p>
@@ -47,4 +65,3 @@
 <li>Libras</li>
 <li>Espanhol</li>
 </body>
-</html>
