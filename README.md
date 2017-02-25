@@ -29,7 +29,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1yNwxLW1Cw" frameborder="0" allowfullscreen></iframe>
 <p>
 <h2>Informações pessoais</h2>
-<p>
+<ul>
 <b>Hobbies:</b>
 <li>Cantar</li>
 <li>Desenhar</li>
@@ -37,15 +37,15 @@
 <li>Ler (livros que me prendam, n esses entediantes)</li>
 <li>Conversar</li>
 <li>Conhecer pessoas novas!!</li>
-</p>
+</ul>
 <p>
 <b>O que quero aprender:</b>
 </p>
-<p>
+<ul>
 <li>Tocar violão</li>
 <li>Alemão</li>
 <li>Libras</li>
 <li>Espanhol</li>
-</p>
+</ul>
 </body>
 </html>
