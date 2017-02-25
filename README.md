@@ -27,7 +27,6 @@
 "Há uma força mais poderosa que o vapor, a eletricidade e a energia atômica: <b> A VONTADE</b>"(Albert Einstein)
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1yNwxLW1Cw" frameborder="0" allowfullscreen></iframe>
-<p>
 <h2>Informações pessoais</h2>
 <ul>
 <b>Hobbies:</b>
