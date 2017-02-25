@@ -7,6 +7,7 @@
 <p>
 <img src="https://scontent.fbsb9-1.fna.fbcdn.net/v/t1.0-1/p160x160/154437_1750424878553108_4048001277372875139_n.jpg?oh=d40cd6046c849fbfe5ab959f01181818&oe=59492032">
 </p>
+<p>
 <b>Nome:</b>Lia Casati Ramaldes
 </p>
 <p>
@@ -28,7 +29,6 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F1yNwxLW1Cw" frameborder="0" allowfullscreen></iframe>
 <p>
 <h2>Informações pessoais</h2>
-</p>
 <p>
 <b>Hobbies:</b>
 <li>Cantar</li>
