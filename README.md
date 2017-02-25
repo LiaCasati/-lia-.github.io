@@ -5,8 +5,7 @@
 <body>
 <h1>Dados gerais</h1>
 <p>
-<img src=https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-1/p160x160/154437_1750424878553108_4048001277372875139_n.jpg?oh=d40cd6046c849fbfe5ab959f01181818&oe=59492032> 
-<i/img>
+<img src=https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-1/p160x160/154437_1750424878553108_4048001277372875139_n.jpg?oh=d40cd6046c849fbfe5ab959f01181818&oe=59492032> </img>
 </p>
 <p>
 <b>Idade:</b>15
@@ -37,7 +36,7 @@
 <p>
 <b>Redes sociais:</b>
 </p>
-<li><a href="https://www.facebook.com/lia.casati.3"> Facebook </a>
+<li><a href="https://www.facebook.com/lia.casati.3?ref=bookmarks">Facebook</a>
 </li>
 <p>
 <li><a href="https://www.instagram.com/liacasati/?hl=pt-br">Instagram</a></li>
