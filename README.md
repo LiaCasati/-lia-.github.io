@@ -1,6 +1,17 @@
 <html>
 <head>
 <title>Lia Casati</title>
+h1{
+  color:#FFFAFA;
+  font:"arial";
+  text-aling:center;
+  }
+p{
+  color:#FFFAFA;
+  font:"arial";
+  text-aling:center;
+  background-color:#A52A2A
+  }
 </head>
 <body>
 <h1>Dados gerais</h1>
