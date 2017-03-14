@@ -11,7 +11,9 @@ p{
   color:#FFFAFA;
   font:"arial";
   text-aling:center;
-  background-color:#A52A2A
+  }
+  body{
+   background-color:#A52A2A
   }
   </style>
 </head>
