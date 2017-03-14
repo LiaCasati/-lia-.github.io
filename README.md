@@ -23,7 +23,7 @@ p{
 <body>
 <h1>Dados gerais</h1>
 <p>
-<img src="https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/15940939_1771733639755565_7036689067287086205_n.jpg?oh=701fc3ffd018569f7a5abe06ab6b3c2a&oe=59265F98">
+<img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg">
 </p>
 <p>
 <b>Nome:</b>Lia Casati Ramaldes
