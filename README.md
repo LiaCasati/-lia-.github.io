@@ -37,9 +37,9 @@ p{
 <p>
 <b>Redes sociais:</b>
 </p>
-<li><a href="https://www.facebook.com/lia.casati.3">Facebook</a></li>
+<a href="https://www.facebook.com/lia.casati.3" target="blank"><img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fwww.facebook.com%2Fimages%2Ffb_icon_325x325.png&imgrefurl=https%3A%2F%2Fpt-br.facebook.com%2F&docid=QLijlWuVA-OKWM&tbnid=fTKCrFX9aTbCVM%3A&vet=10ahUKEwjksfeJotzSAhUEkZAKHScaBq0QMwgxKAAwAA..i&w=325&h=325&bih=670&biw=1280&q=facebook&ved=0ahUKEwjksfeJotzSAhUEkZAKHScaBq0QMwgxKAAwAA&iact=mrc&uact=8" width='50'height='54' alt facebook title="Facebook"/></a>
 <p>
-<li><a href="https://www.instagram.com/liacasati/?hl=pt-br">Instagram</a></li>
+<a href="https://www.instagram.com/liacasati/?hl=pt-br" target="blank"><img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fimg.clipartfest.com%2F49803d8eb5ea235a5860ac942caece70_download-png-download-eps-instagram-logo-clipart-png_1024-1024.png&imgrefurl=https%3A%2F%2Fclipartfest.com%2Fcategories%2Fview%2Fce38a7bd2ef2cd007f78f2f9370bb9185cdbd78c%2Finstagram-logo-clipart-png.html&docid=wJ9qqxLl3RxkzM&tbnid=eBBYmwjchLet4M%3A&vet=10ahUKEwjgweyxo9zSAhUGjJAKHfStA_MQMwgwKAEwAQ..i&w=1024&h=1024&bih=670&biw=1280&q=instagram%20logo&ved=0ahUKEwjgweyxo9zSAhUGjJAKHfStA_MQMwgwKAEwAQ&iact=mrc&uact=8" width='50'height='54' alt instagram title="Instagram"></a>
 </p>
 <p>
 "Há uma força mais poderosa que o vapor, a eletricidade e a energia atômica: <b> A VONTADE</b>"(Albert Einstein)
