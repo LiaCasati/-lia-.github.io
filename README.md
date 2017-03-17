@@ -37,9 +37,9 @@ p{
 <p>
 <b>Redes sociais:</b>
 </p>
-<li><a href="https://www.facebook.com/lia.casati.3" target="_blank" "Facebook"></a></li>
+<li><a href="https://www.facebook.com/lia.casati.3" "Facebook"></a></li>
 <p>
-<li><a href="https://www.instagram.com/liacasati/?hl=pt-br" target="_blank""Instagram"></a></li>
+<li><a href="https://www.instagram.com/liacasati/?hl=pt-br" "Instagram"></a></li>
 </p>
 <p>
 "Há uma força mais poderosa que o vapor, a eletricidade e a energia atômica: <b> A VONTADE</b>"(Albert Einstein)
