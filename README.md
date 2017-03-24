@@ -8,7 +8,7 @@ padding:1em;
 }
 nav{
 background-color:#A52A2A;
-color:#FFFAFA;
+color:black;
 font:"arial";
 }
 h1.a{
@@ -38,7 +38,7 @@ p{
 <header class="a">
 <h1 class="a">Lia Casati</h1>
 </header>
-<nav>Dados gerais | Informacões pessoais | Contato </nav>
+<nav><h6>Dados gerais | Informacões pessoais | Contato</h6></nav>
 <article>
 <p>
 <img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg">
