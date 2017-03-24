@@ -28,6 +28,11 @@ p{
   table, td, tr {
 border: 2px solid black
 }
+table {
+border-collapse: collapse;
+width: 70%;
+background-color: white;
+}
   ul{
    color:black;
   }
