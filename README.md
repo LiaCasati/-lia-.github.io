@@ -16,6 +16,8 @@ Font:"arial"
   text-aling:center;
   }
 nav{
+background-color:#A52A2A;
+padding:1em;
 color:#FFFAFA;;
 font:"arial";
 }
