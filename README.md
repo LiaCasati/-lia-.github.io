@@ -33,6 +33,7 @@ p{
   </style>
 </head>
 <body>
+<center>
 <header class="a">
 <h1 class="a">Lia Casati</h1>
 </header>
@@ -82,5 +83,6 @@ p{
 <li>Libras</li>
 <li>Espanhol</li>
 </ul>
+</center>
 </body>
 </html>
