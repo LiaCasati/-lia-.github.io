@@ -25,6 +25,9 @@ p{
   font:"arial";
   text-aling:center;
   }
+  table, td, tr {
+border: 2px solid black
+}
   ul{
    color:black;
   }
