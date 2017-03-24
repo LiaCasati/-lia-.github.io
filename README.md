@@ -44,15 +44,20 @@ p{
 <img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg">
 </p>
 <h1>Dados gerais</h1>
-<p>
-<b>Nome:</b>Lia Casati Ramaldes
-</p>
-<p>
-<b>Idade:</b>15
-</p>
-<p>
-<b>Nascido em:</b> Vitória-ES
-</p>
+<table>
+<tr>
+<b>Nome</b>Lia Casati Ramaldes
+</tr>
+<tr>
+<b>Idade</b>15
+</tr>
+<tr>
+<b>Nascido em</b> Vitória-ES
+</tr>
+<tr>
+<b>Moradora de</b> Vitória-ES
+</tr>
+</table>
 </article>
 <p>
 <b>Redes sociais:</b>
