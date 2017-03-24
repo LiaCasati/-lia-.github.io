@@ -6,6 +6,11 @@ header.a{
 background-color:#A52A2A;
 padding:1em;
 }
+nav{
+background-color:#A52A2A;
+color:#FFFAFA;
+font:"arial";
+}
 h1.a{
 color:FFFAFA;
 Font:"arial"
@@ -15,12 +20,6 @@ Font:"arial"
   font:"arial";
   text-aling:center;
   }
-nav{
-background-color:#A52A2A;
-padding:1em;
-color:#FFFAFA;;
-font:"arial";
-}
 p{
   color:black;
   font:"arial";
