@@ -46,16 +46,16 @@ p{
 <h1>Dados gerais</h1>
 <table>
 <tr>
-<b>Nome</b>Lia Casati Ramaldes
+<td><b>Nome</b></td><td>Lia Casati Ramaldes</td>
 </tr>
 <tr>
-<b>Idade</b>15
+<td><b>Idade</b></td><td>15</td>
 </tr>
 <tr>
-<b>Nascido em</b> Vitória-ES
+<td><b>Nascido em</b></td><td>Vitória-ES</td>
 </tr>
 <tr>
-<b>Moradora de</b> Vitória-ES
+<td><b>Moradora de</b></td><td> Vitória-ES</td>
 </tr>
 </table>
 </article>
