@@ -11,24 +11,24 @@ color:FFFAFA;
 Font:"arial"
 }
  h1,h2, h3, h4, h5, h6{
-  color:#FFFAFA;
+  color:black;
   font:"arial";
   text-aling:center;
   }
 nav{
-color:#FFFAFA;
+color:#FFFAFA;;
 font:"arial";
 }
 p{
-  color:#FFFAFA;
+  color:black;
   font:"arial";
   text-aling:center;
   }
   ul{
-   color:white;
+   color:black;
   }
   body{
-   background-color:#A52A2A
+   background-color:#FFFAFA;
   }
   </style>
 </head>
