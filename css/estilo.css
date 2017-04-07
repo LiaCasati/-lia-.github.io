@@ -1,4 +1,18 @@
-<style>
+div.a{
+background-color:blue;
+float:right;
+width:33.3%;
+}
+div.b{
+background-color:red;
+float:right;
+width:33.3%;
+}
+div.c{
+background-color:green;
+float:left;
+width:33.3%;
+}
 header.a{
 background-color:#A52A2A;
 padding:1em;
@@ -36,5 +50,3 @@ background-color: white;
   body{
    background-color:#FFFAFA;
   }
-  </style>
-</head>
