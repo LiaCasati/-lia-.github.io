@@ -63,7 +63,11 @@
 <footer>
 <table>
 <tr>
-<td>Ligar:</td>
+<td>
+<tr>Ligar:</tr>
+<tr>99963-6286</tr>
+<tr>3327-6600</tr>
+</td>
 <td>Email:</td>
 <td>Redes sociais<td>
 </tr>
