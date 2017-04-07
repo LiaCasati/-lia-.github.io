@@ -61,7 +61,7 @@
 </ul>
 </center>
 <footer>
-<div class="a">Ligar<br/>3327-6600<br/>99963-6286<br/>
+<div class="a"><img src="">Ligar<br/>3327-6600<br/>99963-6286<br/>
 <div class="b">Email<br/>liac.ramaldes2@gmail.com<br/>
 <div class="c">
 </footer>
