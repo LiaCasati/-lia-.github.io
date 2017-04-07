@@ -61,12 +61,17 @@
 </ul>
 </center>
 <footer>
-<div class="a"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjOoNDllZHTAhXEIJAKHRHKAO8QjRwIBw&url=https%3A%2F%2Fwww.q42.com%2Fabout-q42&bvm=bv.152174688,d.Y2I&psig=AFQjCNEw9UKgXBoNJG6JKRaE8tWhIl0lxg&ust=1491614114919528">Ligar<br/>3327-6600<br/>99963-6286<br/>
-<div class="b"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiLyIzDlpHTAhUBD5AKHTuvAjsQjRwIBw&url=https%3A%2F%2Fbrasa.art.br%2Fservicos-wordpress%2F&bvm=bv.152174688,d.Y2I&psig=AFQjCNHyW5mJ8IlbQE2vQYXS-fs89rpNBw&ust=1491614318590620">Email<br/>liac.ramaldes2@gmail.com<br/>
+<div class="a"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjOoNDllZHTAhXEIJAKHRHKAO8QjRwIBw&url=https%3A%2F%2Fwww.q42.com%2Fabout-q42&bvm=bv.152174688,d.Y2I&psig=AFQjCNEw9UKgXBoNJG6JKRaE8tWhIl0lxg&ust=1491614114919528">
+Ligar<br/>3327-6600<br/>99963-6286<br/>
+</div>
+<div class="b"><img src="https://www.google.com.br/url?
+sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiLyIzDlpHTAhUBD5AKHTuvAjsQjRwIBw&url=https%3A%2F%2Fbrasa.art.br%2Fservicos-wordpress%2F&bvm=bv.152174688,d.Y2I&psig=AFQjCNHyW5mJ8IlbQE2vQYXS-fs89rpNBw&ust=1491614318590620">
+Email<br/>liac.ramaldes2@gmail.com<br/>
+</div>
 <div class="c">
 <a href="https://www.instagram.com/liacasati/?hl=pt-br"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_pbaEmZHTAhWEEpAKHU9FCjUQjRwIBw&url=http%3A%2F%2Ficon-icons.com%2Fpt%2Ficones%2Fbusca%2Finstagram&bvm=bv.152174688,d.Y2I&psig=AFQjCNHBYGw8P57ft5gwdNI6-XBFicxzPQ&ust=1491614993824176"></a>
 <a href="https://www.facebook.com/lia.casati.3"><img src="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Ficon-icons.com%2Ficons2%2F509%2FPNG%2F128%2FFacebook_Square_icon-icons.com_49948.png&imgrefurl=http%3A%2F%2Ficon-icons.com%2Fpt%2Ficones%2Fbusca%2Ffacebook&docid=JOIh8NTyV-WHBM&tbnid=CHklxscJu99QaM%3A&vet=10ahUKEwi5wNP7mZHTAhXFnJAKHZcLDt4QMwg6KBYwFg..i&w=128&h=128&bih=670&biw=1280&q=icone%20de%20facebook%20128x128&ved=0ahUKEwi5wNP7mZHTAhXFnJAKHZcLDt4QMwg6KBYwFg&iact=mrc&uact=8"></a>
-
+</div>
 </footer>
 </body>
 </html>
