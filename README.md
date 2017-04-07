@@ -61,29 +61,9 @@
 </ul>
 </center>
 <footer>
-<table>
-<tr>
-<th>Ligar</th>
-<th>Email</th>
-<th>Redes sociais</th>
-</tr>
-<table>
-<tr>
-<td>
-<tr><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjOoNDllZHTAhXEIJAKHRHKAO8QjRwIBw&url=https%3A%2F%2Fwww.q42.com%2Fabout-q42&bvm=bv.152174688,d.Y2I&psig=AFQjCNEw9UKgXBoNJG6JKRaE8tWhIl0lxg&ust=1491614114919528
-"><tr>
-<tr>
-<td>3327-6600</td>
-<td>99963-6286</td>
-</tr>
-</table>
-<table>
-<td></td>
-<td></td>
-<td></td>
-<tr></tr>
-
-</table>
+<div class="a">Ligar<br/>3327-6600<br/>99963-6286<br/>
+<div class="b">Email<br/>liac.ramaldes2@gmail.com<br/>
+<div class="c">
 </footer>
 </body>
 </html>
