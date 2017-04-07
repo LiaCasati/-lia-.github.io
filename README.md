@@ -63,7 +63,7 @@
 <footer>
 <table>
 <tr>
-<td><img src="<img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiQ7N-tm5HTAhWGIpAKHSTPBoEQjRwIBw&url=http%3A%2F%2Fwww.iconninja.com%2Fsnapchat-icon-603938&psig=AFQjCNGYULy5mTrAXxcZO5uzAGo3uW-Eeg&ust=1491615407703155">"></td>
+<td><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiQ7N-tm5HTAhWGIpAKHSTPBoEQjRwIBw&url=http%3A%2F%2Fwww.iconninja.com%2Fsnapchat-icon-603938&psig=AFQjCNGYULy5mTrAXxcZO5uzAGo3uW-Eeg&ust=1491615407703155"></td>
 <td>
 <tr>Ligar:</tr>
 <tr>99963-6286</tr>
