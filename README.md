@@ -1,45 +1,7 @@
 <html>
 <head>
 <title>Lia Casati</title>
-<style>
-header.a{
-background-color:#A52A2A;
-padding:1em;
-}
-nav{
-background-color:#A52A2A;
-color:black;
-font:"arial";
-}
-h1.a{
-color:FFFAFA;
-Font:"arial"
-}
- h1,h2, h3, h4, h5, h6{
-  color:black;
-  font:"arial";
-  text-aling:center;
-  }
-p{
-  color:black;
-  font:"arial";
-  text-aling:center;
-  }
-  table, td, tr {
-border: 2px solid black
-}
-table {
-border-collapse: collapse;
-width: 70%;
-background-color: white;
-}
-  ul{
-   color:black;
-  }
-  body{
-   background-color:#FFFAFA;
-  }
-  </style>
+<link rel="stysheet" href="estilo.css">
 </head>
 <body>
 <center>
