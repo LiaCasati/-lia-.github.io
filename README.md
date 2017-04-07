@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Lia Casati</title>
-<link rel="stylesheet" href="estilo.css">
+<link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
 <center>
