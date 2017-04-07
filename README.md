@@ -67,6 +67,11 @@
 <th>xxx</th>
 <th>yyy</th>
 </tr>
+<tr>
+<td>Ligar</td>
+<td>xxx</td>
+<td>yyy</td>
+</tr>
 
 </table>
 </footer>
