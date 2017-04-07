@@ -63,6 +63,7 @@
 <footer>
 <table>
 <tr>
+<td><img src=""></td>
 <td>
 <tr>Ligar:</tr>
 <tr>99963-6286</tr>
