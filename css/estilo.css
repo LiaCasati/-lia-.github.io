@@ -4,14 +4,15 @@ float:left;
 width:33.3%;
 color:white;
 font:"arial";
- border:solid 2px black;
+ border:2px solid  black;
 }
 div.b{
 background-color:#191970;
-float:right;
+float:left;
 width:33.3%;
 color:white;
 font:"arial";
+  border:2px solid  black;
 }
 div.c{
 background-color:#191970;
@@ -19,6 +20,7 @@ float:right;
 width:33.3%;
 color:white;
 font:"arial";
+  border:2px solid  black;
 }
 header.a{
 background-color:#A52A2A;
