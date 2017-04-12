@@ -4,6 +4,7 @@ float:left;
 width:33.3%;
 color:white;
 font:"arial";
+ border:solid 2px black;
 }
 div.b{
 background-color:#191970;
