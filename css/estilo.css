@@ -41,7 +41,7 @@ Font:"arial"
   text-aling:center;
   }
 p{
-  color:black;
+  color:white;
   font:"arial";
   text-aling:center;
   }
@@ -57,5 +57,5 @@ background-color: white;
    color:black;
   }
   body{
-   background-color:#FFFAFA;
+   background-color:#6495ED;
   }
