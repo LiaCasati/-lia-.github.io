@@ -1,7 +1,9 @@
 div.a{
-background-color:#23238E;
+background-color:#191970;
 float:left;
 width:33.3%;
+ color:white;
+font:"arial";
 }
 div.b{
 background-color:#23238E;
