@@ -2,18 +2,22 @@ div.a{
 background-color:#191970;
 float:left;
 width:33.3%;
- color:white;
+color:white;
 font:"arial";
 }
 div.b{
-background-color:#23238E;
+background-color:#191970;
 float:right;
 width:33.3%;
+color:white;
+font:"arial";
 }
 div.c{
-background-color:#23238E;
+background-color:#191970;
 float:right;
 width:33.3%;
+color:white;
+font:"arial";
 }
 header.a{
 background-color:#A52A2A;
