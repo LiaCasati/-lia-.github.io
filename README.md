@@ -13,64 +13,17 @@
 <p>
 <img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg">
 </p>
-<h1>Dados gerais</h1>
-<table>
-<tr>
-<td><b>Nome</b></td><td>Lia Casati Ramaldes</td>
-</tr>
-<tr>
-<td><b>Idade</b></td><td>15</td>
-</tr>
-<tr>
-<td><b>Nascido em</b></td><td>Vitória-ES</td>
-</tr>
-<tr>
-<td><b>Moradora de</b></td><td> Vitória-ES</td>
-</tr>
-</table>
-</article>
-<p>
-<b>Redes sociais:</b>
-</p>
-<li><a href="https://www.facebook.com/lia.casati.3">Facebook</a></li>
-<p>
-<li><a href="https://www.instagram.com/liacasati/?hl=pt-br">Instagram</a></li>
-</p>
-<p>
-"Há uma força mais poderosa que o vapor, a eletricidade e a energia atômica: <b> A VONTADE</b>"(Albert Einstein)
-</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F1yNwxLW1Cw" frameborder="0" allowfullscreen></iframe>
-<h2>Informações pessoais</h2>
-<ul>
-<b>Hobbies:</b>
-<li>Cantar</li>
-<li>Desenhar</li>
-<li>Irritar pessoas KKKKKKK</li>
-<li>Ler (livros que me prendam, n esses entediantes)</li>
-<li>Conversar</li>
-<li>Conhecer pessoas novas!!</li>
-</ul>
-<p>
-<b>O que quero aprender:</b>
-</p>
-<ul>
-<li>Tocar violão</li>
-<li>Alemão</li>
-<li>Libras</li>
-<li>Espanhol</li>
-</ul>
-</center>
+
 <footer>
-<div class="a"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjOoNDllZHTAhXEIJAKHRHKAO8QjRwIBw&url=https%3A%2F%2Fwww.q42.com%2Fabout-q42&bvm=bv.152174688,d.Y2I&psig=AFQjCNEw9UKgXBoNJG6JKRaE8tWhIl0lxg&ust=1491614114919528">
+<div class="a"><img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fimage.freepik.com%2Ficones-gratis%2Fsimbolo-de-telefone-de-um-auricular-dentro-de-um-circulo_318-50305.jpg&imgrefurl=http%3A%2F%2Fbr.freepik.com%2Ficones-gratis&docid=83uroT5V9jiRtM&tbnid=80xKLAunFM-nCM%3A&vet=10ahUKEwjZ4MvbkZ_TAhUBIpAKHRyOD0kQMwgqKBAwEA..i&w=626&h=626&bih=794&biw=1600&q=icones%20em%20preto%20e%20branco%20do%20telefone&ved=0ahUKEwjZ4MvbkZ_TAhUBIpAKHRyOD0kQMwgqKBAwEA&iact=mrc&uact=8">
 Ligar<br/>3327-6600<br/>99963-6286<br/>
 </div>
-<div class="b"><img src="https://www.google.com.br/url?
-sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiLyIzDlpHTAhUBD5AKHTuvAjsQjRwIBw&url=https%3A%2F%2Fbrasa.art.br%2Fservicos-wordpress%2F&bvm=bv.152174688,d.Y2I&psig=AFQjCNHyW5mJ8IlbQE2vQYXS-fs89rpNBw&ust=1491614318590620">
+<div class="b"><img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F7e6c97_564a13d1270e40b0a340190830a27b09~mv2.png&imgrefurl=https%3A%2F%2Fwww.institutoricci.com.br%2F&docid=G8dAAa7SMxfHAM&tbnid=O2XXYGJYSDzHYM%3A&vet=10ahUKEwjv_aLEkZ_TAhUFiZAKHZB9CAUQMwgcKAIwAg..i&w=766&h=766&bih=794&biw=1600&q=icones%20em%20preto%20e%20branco%20do%20email%20&ved=0ahUKEwjv_aLEkZ_TAhUFiZAKHZB9CAUQMwgcKAIwAg&iact=mrc&uact=8">
 Email<br/>liac.ramaldes2@gmail.com<br/>
 </div>
 <div class="c">
-<a href="https://www.instagram.com/liacasati/?hl=pt-br"><img src="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_pbaEmZHTAhWEEpAKHU9FCjUQjRwIBw&url=http%3A%2F%2Ficon-icons.com%2Fpt%2Ficones%2Fbusca%2Finstagram&bvm=bv.152174688,d.Y2I&psig=AFQjCNHBYGw8P57ft5gwdNI6-XBFicxzPQ&ust=1491614993824176"></a>
-<a href="https://www.facebook.com/lia.casati.3"><img src="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Ficon-icons.com%2Ficons2%2F509%2FPNG%2F128%2FFacebook_Square_icon-icons.com_49948.png&imgrefurl=http%3A%2F%2Ficon-icons.com%2Fpt%2Ficones%2Fbusca%2Ffacebook&docid=JOIh8NTyV-WHBM&tbnid=CHklxscJu99QaM%3A&vet=10ahUKEwi5wNP7mZHTAhXFnJAKHZcLDt4QMwg6KBYwFg..i&w=128&h=128&bih=670&biw=1280&q=icone%20de%20facebook%20128x128&ved=0ahUKEwi5wNP7mZHTAhXFnJAKHZcLDt4QMwg6KBYwFg&iact=mrc&uact=8"></a>
+<a href="https://www.instagram.com/liacasati/?hl=pt-br"><img src="https://www.google.com.br/imgres?imgurl=https%3A%2F%2Fimg.clipartfest.com%2F8901abba252827458c55f13c175f8095_instagram-icons-white-instagram-icon-clipart_512-512.jpeg&imgrefurl=https%3A%2F%2Fclipartfest.com%2Fcategories%2Fview%2Fc8a83c841f3668e9067a978ff1a2d17918ed2e34%2Finstagram-icon-clipart.html&docid=-3bEO3HrJV5q-M&tbnid=m-pChmJuIcabxM%3A&vet=10ahUKEwjF-7LukJ_TAhULf5AKHT-XATwQMwgqKA4wDg..i&w=512&h=512&bih=794&biw=1600&q=icones%20em%20preto%20e%20branco%20do%20facebook%2C%20do%20instagram%2C%20do%20email%20e%20de%20um%20telefone&ved=0ahUKEwjF-7LukJ_TAhULf5AKHT-XATwQMwgqKA4wDg&iact=mrc&uact=8"></a>
+<a href="https://www.facebook.com/lia.casati.3"><img src="https://www.google.com.br/imgres?imgurl=http%3A%2F%2Fimg.freepik.com%2Ficones-gratis%2Ffacebook-logo-botao_318-84980.jpg%3Fsize%3D32%26ext%3Djpg&imgrefurl=http%3A%2F%2Fbr.freepik.com%2F&docid=Wnu6QFnXGs6iIM&tbnid=pyKjOoLHc-v0NM%3A&vet=10ahUKEwjF-7LukJ_TAhULf5AKHT-XATwQMwgjKAcwBw..i&w=338&h=338&bih=794&biw=1600&q=icones%20em%20preto%20e%20branco%20do%20facebook%2C%20do%20instagram%2C%20do%20email%20e%20de%20um%20telefone&ved=0ahUKEwjF-7LukJ_TAhULf5AKHT-XATwQMwgjKAcwBw&iact=mrc&uact=8"></a>
 </div>
 </footer>
 </body>
