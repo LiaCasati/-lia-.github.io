@@ -9,11 +9,10 @@
 <h1 class="a">Lia Casati</h1>
 </header>
 <nav><h3>Dados gerais | Informacões pessoais | Contato</h3></nav>
-<article>
+</center>
 <p>
 <img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg" class="a">
 </p>
-</center>
 <footer>
 <div class="a"><img src="http://www.cashbuyersofhomes.com/wp-content/uploads/2015/07/phone.png" class="b">
 Ligar<br/>3327-6600<br/>99963-6286<br/>
