@@ -8,7 +8,7 @@
 <header class="a">
 <h1 class="a">Lia Casati</h1>
 </header>
-<nav><h3>Dados gerais | Informacões pessoais | Contato</h3></nav>
+<nav><h3>Sobre mim | Habilidades | Blog | Portifólio| Contato</h3></nav>
 </center>
 <p>
 <img src="https://instagram.fvix2-1.fna.fbcdn.net/t51.2885-19/s150x150/14368955_102556240254744_8718379420097708032_n.jpg" class="a">
