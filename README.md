@@ -21,7 +21,8 @@ Ligar<br/>3327-6600<br/>99963-6286<br/>
 Email<br/>liac.ramaldes2@gmail.com<br/>
 </div>
 <div class="c">
-<a href="https://www.instagram.com/liacasati/?hl=pt-br"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Instagram_simple_icon.svg/240px-Instagram_simple_icon.svg.png" class="b"></a>
+Redes sociais
+<a href="https://www.instagram.com/liacasati/?hl=pt-br"><img src="https://pixabay.com/p-1562139/?no_redirect" class="b"></a>
 <a href="https://www.facebook.com/lia.casati.3"><img src="http://cdn.mysitemyway.com/icons-watermarks/simple-black/bfa/bfa_brands-facebook-square/bfa_brands-facebook-square_simple-black_512x512.png" class="b"></a>
 </div>
 </footer>
