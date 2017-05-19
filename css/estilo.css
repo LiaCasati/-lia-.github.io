@@ -3,10 +3,9 @@ div.oi {
 background-color:#191970
 }
 div.bolinha{
- width:130px;
-		height:130px;
 border-radius:50%;
- border:3px solid #000;
+width:130px;
+height:130px;
 }
 
 img.b{
