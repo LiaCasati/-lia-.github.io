@@ -2,10 +2,8 @@
 div.oi {
 background-color:#191970
 }
-div.bolinha{
-border-radius:50%;
-width:130px;
-height:130px;
+img{
+    border-radius: 50%;
 }
 
 img.b{
