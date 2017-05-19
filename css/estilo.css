@@ -1,32 +1,8 @@
-header.a{
-background-color:#191970;
-padding:1em;
+
+div.jumbotron text-center{
+background-color:#191970
 }
 
-div.a{
-background-color:#191970;
-float:left;
-width:33.3%;
-color:white;
-font:"arial";
- border:3px solid  black;
-}
-div.b{
-background-color:#191970;
-float:left;
-width:33.3%;
-color:white;
-font:"arial";
-  border:3px solid  black;
-}
-div.c{
-background-color:#191970;
-float:right;
-width:33.3%;
-color:white;
-font:"arial";
-  border:3px solid  black;
-}
 img.b{
 height:20px;
 }
@@ -45,17 +21,6 @@ p{
   font:"arial";
   text-aling:center;
   }
-  table, td, tr {
-border: 2px solid black
-}
-table {
-border-collapse: collapse;
-width: 70%;
-background-color: white;
-}
-  ul{
-   color:black;
-  }
-  body{
+   body{
    background-color:#6495ED;
   }
