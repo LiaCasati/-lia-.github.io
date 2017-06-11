@@ -2,15 +2,15 @@ body{
 font-family:"Lucida Console", Monospace;
 }
 
-div.oi {
-background-color:#20B2AA;
-    color:black;
-}
-
-div.navbar-header{
-background-color:#20B2AA;
-    color:black;
-}
+div.navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
 
 div.roda-pé{
     background-color:#20B2AA;
@@ -26,18 +26,3 @@ img.b{
 height:20px;
 }
 
-h1.a{
-color:white;
-Font:"arial"
-}
- h1,h2, h3, h4, h5, h6{
-  color:white;
-  font:"arial";
-  text-aling:center;
-  }
-p{
-  color:white;
-  font:"arial";
-  text-aling:center;
-  }
- 
