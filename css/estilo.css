@@ -2,6 +2,10 @@ body{
 font-family:"Lucida Console", Monospace;
 }
 
+div{
+     background-color:#48D1CC;
+}
+
 div.navbar {
       font-family:"Lucida Console", Monospace;
       padding-top: 15px;
