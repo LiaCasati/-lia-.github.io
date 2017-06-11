@@ -1,22 +1,20 @@
 body{
-    background-color:#4682B4;
 font-family:"Lucida Console", Monospace;
 }
 
 div.oi {
-background-color:#191970;
-    color:white;
+background-color:#20B2AA;
+    color:black;
 }
 
 div.barra{
-background-color:#191970;
-    color:#FFFAFA;
+background-color:#20B2AA;
+    color:black;
 }
 
 div.roda-pé{
-border-style: solid;
-    background-color:#191970;
-   
+    background-color:#20B2AA;
+    color:black;   
 }
 
 img.a{
