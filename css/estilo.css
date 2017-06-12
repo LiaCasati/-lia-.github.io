@@ -23,6 +23,32 @@ div.espaço{
       margin-top: 80px;
 }
 
+div.1{
+     border-style: solid;
+     color:gray;
+     background-color:white;
+}
+
+div.2{
+     border-style: solid;
+     color:gray;
+     background-color:white;
+}
+
+div.3{
+     border-style: solid;
+     color:gray;
+     background-color:white;
+}
+
+div.4{
+     border-style: solid;
+     color:gray;
+     background-color:white;
+     margin-bottom: 50px;
+     margin-top: 0px;
+}
+
 div.navbar {
       font-family:"Times New Roman", Serif;
       padding-top: 15px;
