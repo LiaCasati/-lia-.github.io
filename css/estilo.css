@@ -22,6 +22,20 @@ div.navbar {
       letter-spacing: 4px;
   }
 
+div.r2{
+     font-family:"Lucida Console", Monospace;
+     Color:black;
+     background-color:#48D1CC;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     font-size: 12px;
+     letter-spacing: 4px;
+     margin-right: 10px;
+     margin-left: 10px;
+}
+
 div.roda-pé{
     background-color:#20B2AA;
     color:black;   
