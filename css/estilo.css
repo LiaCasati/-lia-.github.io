@@ -15,7 +15,6 @@ h3{
       border-radius: 0;
       margin-bottom: 0;
       margin-top: 0px;
-      font-size: 12px;
       letter-spacing: 0px;
 }
 
@@ -31,7 +30,7 @@ div.navbar {
       letter-spacing: 0px;
   }
 
-div.r2{
+div.r, r2{
      font-family:"Times New Roman", Serif;
      Color:black;
      background-color:#48D1CC;
