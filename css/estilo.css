@@ -4,6 +4,10 @@ font-family:"Lucida Console", Monospace;
 
 div.fundo{
      background-color:#48D1CC;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     margin-top: 0px;
+     margin-bottom: 0;
 }
 
 div.navbar {
