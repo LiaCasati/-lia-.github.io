@@ -96,8 +96,8 @@ div.r2{
 }
 
 img.dog{
-     width:600px;
-     height:800px;
+     max-width:100%;
+     height:auto;
 }
 
 div.roda-pé{
