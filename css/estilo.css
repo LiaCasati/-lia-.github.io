@@ -1,6 +1,3 @@
-body{
-font-family:"Lucida Console", Monospace;
-}
 
 div.fundo{
      background-color:#48D1CC;
@@ -11,7 +8,7 @@ div.fundo{
 }
 
 h3{
-      font-family:"Lucida Console", Monospace;
+      font-family:"Times New Roman", Serif;
       padding-top: 15px;
       padding-bottom: 15px;
       border: 0;
@@ -23,7 +20,7 @@ h3{
 }
 
 div.navbar {
-      font-family:"Lucida Console", Monospace;
+      font-family:"Times New Roman", Serif;
       padding-top: 15px;
       padding-bottom: 15px;
       border: 0;
@@ -35,7 +32,7 @@ div.navbar {
   }
 
 div.r2{
-     font-family:"Lucida Console", Monospace;
+     font-family:"Times New Roman", Serif;
      Color:black;
      background-color:#48D1CC;
      padding-top: 15px;
