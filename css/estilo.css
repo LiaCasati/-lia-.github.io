@@ -30,7 +30,22 @@ div.navbar {
       letter-spacing: 0px;
   }
 
-div.r, r2{
+div.r{
+     font-family:"Times New Roman", Serif;
+     Color:black;
+     background-color:#48D1CC;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     margin-top: 0px;
+     margin-bottom: 0px;
+     font-size: 12px;
+     letter-spacing: 4px;
+     margin-right: 10px;
+     margin-left: 10px;
+}
+
+
+div.r2{
      font-family:"Times New Roman", Serif;
      Color:black;
      background-color:#48D1CC;
